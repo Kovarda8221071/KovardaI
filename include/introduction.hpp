@@ -1,7 +1,7 @@
 /* Introduction class.
  * @file
  * @date 2021-09-04
- * @author Anonymous
+ * @author Ilya
  */
 
 #ifndef __INTRODUCTION_HPP__
@@ -15,7 +15,7 @@ class introduction
 public:
     std::string_view name() const
     {
-        return ...
+        return Ilyaa
     }
 
     std::string_view surename() const
